@@ -121,9 +121,8 @@ update time and proactively schedules deferred patches.
 ● Multi-Device Orchestration: Implementing a more robust architecture for
 managing a large fleet of devices with a central database.
 
+## 🚀 Live Demo
 
-
-## LIVE DEMO 
-
+🌐 [Click here to view the live site]()
 
 ## Project Lead: Vino ,Ganesh Kumar T
